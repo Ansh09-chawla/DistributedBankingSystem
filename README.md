@@ -1,8 +1,4 @@
-# CPSC 559
-
-CPSC 559 (Introduction to Distributed Systems), Winter 2023 - Group Project
-
-Our project consists of 4 main sub-project folders: client_i, client_j, client_k, server_i, server_j, server_k, and server_read. Each of these folders are its own project.
+This project consists of 4 main sub-project folders: client_i, client_j, client_k, server_i, server_j, server_k, and server_read. Each of these folders are its own project.
 
 # How to run:
 
